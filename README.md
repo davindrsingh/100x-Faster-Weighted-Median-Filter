@@ -1,4 +1,10 @@
 # 100x-Faster-Weighted-Median-Filter
 
-## Work In Progress
-## Will update once done!
+# Implemented Joint Histogram.
+# Implemented BCB Counter.
+# Implemented BCB Algorithm.
+# Supports GreyScale Image.
+
+# Future Updates:
+# Implementation of Necklace Table
+# RGB support.
